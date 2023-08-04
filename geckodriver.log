@@ -1,0 +1,176 @@
+1689840574142	geckodriver	INFO	Listening on 127.0.0.1:50845
+1689840574809	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3x/557fbhd52gl_nkl260d269dr0000gn/T/rust_mozprofilehvZdnn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689840575655	Marionette	INFO	Marionette enabled
+1689840576146	Marionette	INFO	Listening on port 50861
+Read port: 50861
+1689840576249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-07-20 16:09:36.343 plugin-container[1644:39510] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-07-20 16:09:36.343 plugin-container[1644:39510] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-07-20 16:09:36.598 plugin-container[1644:39510] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-07-20 16:09:36.598 plugin-container[1644:39510] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-07-20 16:09:36.598 plugin-container[1644:39552] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-07-20 16:09:36.598 plugin-container[1644:39552] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://bubble.io/package/edit_js/0e7576d47b881db3105a0079bbd036b60cf568b74408686fb52af08df3a8d1ba/xfalse/xfalse/xfalse/xfalse/edit.js, line 70: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+1689840966403	geckodriver	INFO	Listening on 127.0.0.1:52642
+1689840967082	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3x/557fbhd52gl_nkl260d269dr0000gn/T/rust_mozprofile7pHe3E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689840967913	Marionette	INFO	Marionette enabled
+2023-07-20 16:16:08.281 plugin-container[1694:42623] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-07-20 16:16:08.281 plugin-container[1694:42623] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1689840968436	Marionette	INFO	Listening on port 52659
+Read port: 
+1689840968438	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 52659
+2023-07-20 16:16:08.683 plugin-container[1694:42623] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-07-20 16:16:08.683 plugin-container[1694:42623] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-07-20 16:16:08.683 plugin-container[1694:42628] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-07-20 16:16:08.683 plugin-container[1694:42628] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1689840968842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1689840970804	Marionette	INFO	Stopped listening on port 50861
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: https://bubble.io/package/edit_js/0e7576d47b881db3105a0079bbd036b60cf568b74408686fb52af08df3a8d1ba/xfalse/xfalse/xfalse/xfalse/edit.js, line 70: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+1689841240487	geckodriver	INFO	Listening on 127.0.0.1:53976
+1689841241182	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3x/557fbhd52gl_nkl260d269dr0000gn/T/rust_mozprofileM1xZYq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689841241700	Marionette	INFO	Marionette enabled
+2023-07-20 16:20:41.916 plugin-container[1754:45777] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-07-20 16:20:41.916 plugin-container[1754:45777] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-07-20 16:20:41.937 plugin-container[1754:45777] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-07-20 16:20:41.937 plugin-container[1754:45777] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-07-20 16:20:41.937 plugin-container[1754:45775] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-07-20 16:20:41.937 plugin-container[1754:45775] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1689841242035	Marionette	INFO	Listening on port 53993
+Read port: 53993
+1689841242282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1689841257709	Marionette	INFO	Stopped listening on port 52659
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: https://bubble.io/package/edit_js/0e7576d47b881db3105a0079bbd036b60cf568b74408686fb52af08df3a8d1ba/xfalse/xfalse/xfalse/xfalse/edit.js, line 70: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bubble.io."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+console.error: (new TypeError("null has no properties", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: null has no properties: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 524))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450968/pagestyle23 (resource://devtools/server/actors/page-style.js:524:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1689907820360	Marionette	INFO	Stopped listening on port 53993
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

@@ -1,0 +1,96 @@
+.rc-slider-mark-text {
+  font-size: 20px;
+}
+
+.Select-input {
+  height: 50px;
+}
+
+.rangeslider-bg {
+  fill: white;
+}
+
+.nsewdrag drag cursor-ew-resize {
+  margin: 2%
+}
+
+.js-plotly-plot {
+  border: 1px solid #ccc; /* add a solid border */
+  box-shadow: 0px 0px 10px 4px rgba(188, 188, 188, 0.1); /* add a shadow effect */
+}
+
+.custom-dropdown {
+  text-align: left !important;
+  background-color: #f2f2f2 !important;
+}
+
+.Select-menu-outer {
+  max-height: 500px;
+}
+
+.overall-layout {
+  background-color: rgba(250, 250, 250);
+  font-size: 28px;
+  font-family: Poppins;
+}
+
+.map-price-range-box {
+  width: 600px;
+  box-shadow: 2px 2px 5px gray;
+  margin: auto;
+  margin-bottom: 30px;
+  margin-top: 20px
+}
+
+.trend-price-info-box {
+  height: 200px;
+  width: 600px;
+  margin: auto;
+  background-color: lightgray;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px gray;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.trend-price-range-box {
+  width: 66%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 10px;
+}
+
+.trend-category-date-box {
+  width: 33%;
+  height: 100%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 10px;
+}
+
+.price-map-date-slider {
+  text-align: center;
+  margin: auto;
+  width: 70%;
+  margin-bottom: 100px;
+}
+
+.crop_price_trend {
+  width: 90%;
+  margin: auto
+}
+
+.crop-price-map {
+  border: 2px solid #ccc;
+  width: 800px;
+  border-radius: 10px;
+  margin: 30px auto;
+}
+
+.dropdowns {
+  margin: auto;
+  width: 90%;
+}
